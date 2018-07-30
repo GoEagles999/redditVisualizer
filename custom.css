@@ -1,0 +1,22 @@
+input {
+	margin-right:15px !important;
+	transform: scale(2);
+}
+
+label {
+	font-size:1.5em !important;
+}
+
+#header {
+	font-size:2em;
+	font-weight:bold;
+}
+
+#settings {
+	border-bottom:1px solid black;
+	margin:10px;
+}
+
+.option {
+	margin:15px;
+}
